@@ -1,5 +1,6 @@
 ![Light](https://github.com/user-attachments/assets/3fbe2ade-22fa-4f91-b090-f8ff438d273f)
-![Dark](https://github.com/user-attachments/assets/1e4ae0ac-a42e-49c9-93fb-ad5eb86c40fd)
+
+![Dark](https://github.com/user-attachments/assets/3ef76bbc-fc3c-4e93-9760-9b6db1b11055)
 
 # Análise de Dados - RH
 Este projeto traz um Dashboard interativo para visualização e análise de dados do setor de Recursos Humanos. O objetivo é transformar informações brutas em insights valiosos, facilitando a tomada de decisões estratégicas. Com um design intuitivo e precisão nos cálculos, o dashboard destaca os indicadores mais relevantes, proporcionando uma experiência fluida e objetiva na análise dos dados.
